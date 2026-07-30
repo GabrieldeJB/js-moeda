@@ -1,3 +1,4 @@
 export default {
-    moeda: 'brl'
+    moeda: 'brl',
+    preco: 17.89
 }
